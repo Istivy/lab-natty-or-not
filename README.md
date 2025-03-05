@@ -12,8 +12,7 @@ Utilizei o ChatGPT para criar a ideia e estruturar o ebook. Informei o tema, pú
 
 🚀 Resultados
 Este foi o resultado
-
-
+(https://github.com/Istivy/lab-natty-or-not/blob/main/Como%20Vivenciar%20a%20Quaresma.pdf)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
